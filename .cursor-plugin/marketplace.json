@@ -1,0 +1,21 @@
+{
+  "name": "generated-directory",
+  "owner": { "name": "generated.directory" },
+  "metadata": {
+    "description": "Publish Cursor-built sites to generated.directory."
+  },
+  "plugins": [
+    {
+      "name": "generated-directory",
+      "source": "plugin",
+      "description": "Publish a built HTML and JavaScript site to generated.directory/user/app.",
+      "version": "1.0.0",
+      "author": { "name": "generated.directory" },
+      "homepage": "https://generated.directory",
+      "repository": "https://github.com/JovianX/generated-directory-plugin",
+      "license": "MIT",
+      "keywords": ["publish", "static-site", "hosting"],
+      "logo": "assets/logo.svg"
+    }
+  ]
+}

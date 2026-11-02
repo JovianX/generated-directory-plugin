@@ -1,0 +1,11 @@
+{
+  "name": "generated-directory",
+  "description": "Publish a built static site to generated.directory/user/app.",
+  "version": "1.0.0",
+  "author": { "name": "generated.directory" },
+  "homepage": "https://generated.directory",
+  "repository": "https://github.com/JovianX/generated-directory-plugin",
+  "license": "MIT",
+  "keywords": ["publish", "static-site", "hosting"],
+  "logo": "assets/logo.svg"
+}
